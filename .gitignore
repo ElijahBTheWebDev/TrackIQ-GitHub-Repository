@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.eggs/
+*.egg-info/
+*.egg
+
+# Database
+trackiq.db
+*.sqlite3
+uploaded_audio/
+
+# Next.js
+next-frontend/node_modules/
+next-frontend/.next/
+next-frontend/out/
+next-frontend/.DS_Store
+
+# macOS
+.DS_Store
+
+# User-specific
+.idea/
+.vscode/
+*.swp 
